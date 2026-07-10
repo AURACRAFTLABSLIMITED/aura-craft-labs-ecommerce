@@ -22,4 +22,5 @@ https link and paste it i hope i help you thank you for buying my product
 3. Run the app:
    `npm run dev`
 ## 📸 Demo
+https://auracraftlabslimited.github.io/aura-craft-labs-ecommerce/
 
